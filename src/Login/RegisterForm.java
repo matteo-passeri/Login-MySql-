@@ -60,15 +60,6 @@ public class RegisterForm extends LoginFrame {
 		}
 	}
 
-//	public void loadLoginForm(){
-//		LoginFrame loginFrame = new LoginFrame();
-//		loginFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-//		loginFrame.setResizable(false);
-//		loginFrame.setLocationRelativeTo(null);
-//		loginFrame.setVisible(true);
-//		setVisible(false);
-//	}
-
 	/**
 	 * Create the frame.
 	 */
