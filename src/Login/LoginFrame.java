@@ -33,11 +33,6 @@ public class LoginFrame extends JFrame {
 	JPanel loginContentPane;
 	static JTextField usernameField;
 	static JPasswordField passwordField;
-
-//	static String url = "jdbc:mysql://localhost:3306/testDb?useSSL=false";
-//	static String user = "root";
-//	static String password = "";
-//	static String selectQuery = "Select * from userLogin where user=? and password=?";
 	
 	static JLabel errorLabel = new JLabel("Username and Password doesnt't matched");
 	static JLabel usernameErrorLabel = new JLabel("Username is empty");
